@@ -1,0 +1,3 @@
+
+C:/Users/tahsinsoyak/.conda/envs/mcp_test/python
+C:/Users/tahsinsoyak/Desktop/Proje/mpc-usage/langgraph-mpc.py
