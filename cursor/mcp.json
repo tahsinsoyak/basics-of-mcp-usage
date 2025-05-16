@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "langgraph-mcp": {
+            "command": "C:/Users/tahsinsoyak/.conda/envs/mcp_test/python",
+            "args": [
+                "C:/Users/tahsinsoyak/Desktop/Proje/mpc-usage/langgraph-mpc.py"
+            ],
+            "env": {
+                "OPENAI_API_KEY": "<your-openai-api-key>"
+            }
+        }
+    }
+}
