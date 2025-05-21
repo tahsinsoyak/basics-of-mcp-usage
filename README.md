@@ -33,12 +33,11 @@ The Model Context Protocol (MCP) is a standardized way for AI models to interact
 ## Project Structure
 
 ```
-├── index.js               # JavaScript MCP server
-├── langgraph-mpc.py       # Python MCP server
-├── load_documents.py      # Document processing script
-└── README.md              # This file
+├── [index.js](index.js)               # JavaScript MCP server
+├── [langgraph-mpc.py](langgraph-mpc.py)       # Python MCP server
+├── [load_documents.py](load_documents.py)      # Document processing script
+├── [sklearn_vectorstore.parquet](sklearn_vectorstore.parquet) # Vector store for document retrieval
 ```
-
 ## Setup and Running
 
 ### Prerequisites
